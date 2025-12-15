@@ -1,8 +1,7 @@
 package ir.khodam;
 
 /**
- * Hello world!
- *
+ * @author Ali Hosseinzadeh
  */
 public class App 
 {
